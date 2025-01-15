@@ -1,0 +1,34 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-color: lightgray;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+table {
+    margin: auto;
+    padding-top: 50PX;
+    padding-bottom: 50PX;
+    border: none;
+}
+
+td {
+    width: 500px;
+}
+
+
+
+footer {
+    background-color: lightgray;
+    padding: 1px;
+    text-align: center;
+}
+
+#name {
+    font-weight: lighter;
+}
